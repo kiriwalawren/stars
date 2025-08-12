@@ -111,7 +111,7 @@
 ## dotfiles 
 
 - [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
-- [redyf/nixdots](https://github.com/redyf/nixdots) - Dotfiles for NixOS
+- [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
 
 ## dotnet 
 
