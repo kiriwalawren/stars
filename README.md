@@ -24,7 +24,7 @@
 ## C 
 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
-- [lbonn/rofi](https://github.com/lbonn/rofi) - Rofi: A window switcher, run dialog and dmenu replacement - fork with wayland support
+- [lbonn/rofi](https://github.com/lbonn/rofi) - [Historical wayland fork - see davatorium/rofi!] Rofi: A window switcher, run dialog and dmenu replacement
 
 ## C# # 
 
