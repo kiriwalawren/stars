@@ -36,6 +36,7 @@
 - [neovim](#neovim)
 - [others](#others)
 - [privacy](#privacy)
+- [programming-language](#programming-language)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
@@ -222,6 +223,10 @@
 ## privacy 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
+
+## programming-language 
+
+- [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 
 ## rust 
 
