@@ -13,6 +13,7 @@
 - [HTML](#html)
 - [JavaScript](#javascript)
 - [Lua](#lua)
+- [Makefile](#makefile)
 - [Nix](#nix)
 - [Others](#others)
 - [Python](#python)
@@ -28,6 +29,7 @@
 
 ## C# # 
 
+- [Sonarr/Sonarr](https://github.com/Sonarr/Sonarr) - Smart PVR for newsgroup and bittorrent users.
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 
 ## Dart 
@@ -64,6 +66,10 @@
 - [LazyVim/starter](https://github.com/LazyVim/starter) - Starter template for LazyVim
 - [LazyVim/LazyVim](https://github.com/LazyVim/LazyVim) - Neovim config for the lazy
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
+
+## Makefile 
+
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 
 ## Nix 
 
