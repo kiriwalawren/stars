@@ -16,6 +16,7 @@
 - [code](#code)
 - [csharp](#csharp)
 - [dart](#dart)
+- [design](#design)
 - [devops](#devops)
 - [discord](#discord)
 - [docker](#docker)
@@ -36,12 +37,16 @@
 - [macos](#macos)
 - [material-design](#material-design)
 - [mobile](#mobile)
+- [music](#music)
 - [neovim](#neovim)
 - [nestjs](#nestjs)
 - [nodejs](#nodejs)
+- [open-source](#open-source)
 - [others](#others)
+- [php](#php)
 - [privacy](#privacy)
 - [programming-language](#programming-language)
+- [python](#python)
 - [rust](#rust)
 - [self-hosted](#self-hosted)
 - [serverless](#serverless)
@@ -94,6 +99,7 @@
 
 ## cloud 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## code 
@@ -110,6 +116,10 @@
 - [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 - [bluefireteam/vscode-dart-import](https://github.com/bluefireteam/vscode-dart-import) - A simple plugin for VSCode to change all Dart/Flutter imports to relative format.
+
+## design 
+
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
 ## devops 
 
@@ -165,6 +175,10 @@
 
 ## hacktoberfest 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+- [Prowlarr/Prowlarr](https://github.com/Prowlarr/Prowlarr) - Prowlarr is an indexer manager/proxy built on the popular *arr .net/reactjs base stack to integrate with your various PVR apps, supporting management of both Torrent Trackers and Usenet Indexers.
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+- [Radarr/Radarr](https://github.com/Radarr/Radarr) - Movie organizer/manager for usenet and torrent users.
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [jellyfin/jellyfin](https://github.com/jellyfin/jellyfin) - The Free Software Media System - Server Backend & API
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
@@ -182,6 +196,7 @@
 
 ## javascript 
 
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## language 
@@ -213,6 +228,10 @@
 
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
+## music 
+
+- [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
+
 ## neovim 
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -230,6 +249,10 @@
 ## nodejs 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+## open-source 
+
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 
 ## others 
 
@@ -257,6 +280,10 @@
 - [MichaelAquilina/zsh-history-filter](https://github.com/MichaelAquilina/zsh-history-filter) - 🔍 Zsh plugin to filter out some commands from being added to you history
 - [anishathalye/dotbot](https://github.com/anishathalye/dotbot) - A tool that bootstraps your dotfiles ⚡️
 
+## php 
+
+- [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
+
 ## privacy 
 
 - [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
@@ -264,6 +291,10 @@
 ## programming-language 
 
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
+
+## python 
+
+- [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
 
 ## rust 
 
