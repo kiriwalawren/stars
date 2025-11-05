@@ -12,6 +12,7 @@
 - [Dockerfile](#dockerfile)
 - [Go](#go)
 - [HTML](#html)
+- [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -67,6 +68,10 @@
 
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
+
+## Haskell 
+
+- [cachix/cachix](https://github.com/cachix/cachix) - Command line client for Nix binary cache hosting:
 
 ## JavaScript 
 
