@@ -8,6 +8,7 @@
 - [C](#c)
 - [C#](#c#)
 - [C++](#c++)
+- [CSS](#css)
 - [Dart](#dart)
 - [Dockerfile](#dockerfile)
 - [Go](#go)
@@ -41,6 +42,10 @@
 ## C++ 
 
 - [hyprwm/Hyprland](https://github.com/hyprwm/Hyprland) - Hyprland is an independent, highly customizable, dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+
+## CSS 
+
+- [catppuccin/theme.park](https://github.com/catppuccin/theme.park) - 🎢 Soothing pastel theme for theme.park
 
 ## Dart 
 
