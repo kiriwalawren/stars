@@ -45,6 +45,7 @@
 
 ## CSS 
 
+- [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
 - [catppuccin/theme.park](https://github.com/catppuccin/theme.park) - 🎢 Soothing pastel theme for theme.park
 
 ## Dart 
