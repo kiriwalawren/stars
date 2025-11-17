@@ -73,6 +73,7 @@
 
 ## HTML 
 
+- [melogabriel/tinfoil-shops](https://github.com/melogabriel/tinfoil-shops) - Repository with list of links to active and working tinfoil shops for Nintendo Switch.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 
