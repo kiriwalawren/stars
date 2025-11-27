@@ -15,6 +15,7 @@
 - [cli](#cli)
 - [cloud](#cloud)
 - [code](#code)
+- [command-line](#command-line)
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
@@ -116,6 +117,10 @@
 
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
+
+## command-line 
+
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 
 ## csharp 
 
