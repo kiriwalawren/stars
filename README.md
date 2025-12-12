@@ -31,6 +31,7 @@
 
 ## C 
 
+- [openziti/ziti-tunnel-sdk-c](https://github.com/openziti/ziti-tunnel-sdk-c) - 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [lbonn/rofi](https://github.com/lbonn/rofi) - [Historical wayland fork - see davatorium/rofi!] Rofi: A window switcher, run dialog and dmenu replacement
 
