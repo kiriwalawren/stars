@@ -88,6 +88,7 @@
 
 ## JavaScript 
 
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
