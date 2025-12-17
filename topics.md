@@ -16,6 +16,7 @@
 - [cloud](#cloud)
 - [code](#code)
 - [command-line](#command-line)
+- [compiler](#compiler)
 - [csharp](#csharp)
 - [css](#css)
 - [dart](#dart)
@@ -67,6 +68,7 @@
 - [terraform](#terraform)
 - [testing](#testing)
 - [typescript](#typescript)
+- [ui](#ui)
 - [vim](#vim)
 - [website](#website)
 - [windows](#windows)
@@ -127,6 +129,10 @@
 ## command-line 
 
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+
+## compiler 
+
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 
 ## csharp 
 
@@ -413,6 +419,10 @@
 ## typescript 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+## ui 
+
+- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 
 ## vim 
 
