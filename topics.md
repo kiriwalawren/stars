@@ -11,6 +11,7 @@
 - [awesome-list](#awesome-list)
 - [azure](#azure)
 - [bash](#bash)
+- [bugbounty](#bugbounty)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -19,6 +20,7 @@
 - [compiler](#compiler)
 - [csharp](#csharp)
 - [css](#css)
+- [cybersecurity](#cybersecurity)
 - [dart](#dart)
 - [design](#design)
 - [devops](#devops)
@@ -39,6 +41,7 @@
 - [ios](#ios)
 - [iot](#iot)
 - [javascript](#javascript)
+- [kali-linux](#kali-linux)
 - [language](#language)
 - [linux](#linux)
 - [lua](#lua)
@@ -105,6 +108,10 @@
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
+## bugbounty 
+
+- [linuxmobile/bugbounty-flake](https://github.com/linuxmobile/bugbounty-flake) - Bug Bounty Flake
+
 ## chrome-extension 
 
 - [darkreader/darkreader](https://github.com/darkreader/darkreader) - Dark Reader Chrome and Firefox extension
@@ -141,6 +148,10 @@
 ## css 
 
 - [themepark-dev/theme.park](https://github.com/themepark-dev/theme.park) - A collection of themes/skins for 50 selfhosted apps!
+
+## cybersecurity 
+
+- [linuxmobile/bugbounty-flake](https://github.com/linuxmobile/bugbounty-flake) - Bug Bounty Flake
 
 ## dart 
 
@@ -257,6 +268,10 @@
 - [nextcloud/server](https://github.com/nextcloud/server) - ☁️ Nextcloud server, a safe home for all your data
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
+## kali-linux 
+
+- [linuxmobile/bugbounty-flake](https://github.com/linuxmobile/bugbounty-flake) - Bug Bounty Flake
+
 ## language 
 
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
@@ -318,6 +333,7 @@
 
 ## others 
 
+- [ButterSus/nixos-dotfiles](https://github.com/ButterSus/nixos-dotfiles) - NixOS and Home Manager dotfiles
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
 - [openziti/ziti-tunnel-sdk-c](https://github.com/openziti/ziti-tunnel-sdk-c) - 
 - [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) - A launch point for your personal nvim configuration
@@ -371,6 +387,7 @@
 
 ## rust 
 
+- [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
