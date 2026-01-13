@@ -72,6 +72,7 @@
 - [testing](#testing)
 - [typescript](#typescript)
 - [ui](#ui)
+- [video](#video)
 - [vim](#vim)
 - [website](#website)
 - [windows](#windows)
@@ -440,6 +441,10 @@
 ## ui 
 
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
+
+## video 
+
+- [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 
 ## vim 
 
