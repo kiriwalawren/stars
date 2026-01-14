@@ -23,6 +23,7 @@
 - [Others](#others)
 - [PHP](#php)
 - [Python](#python)
+- [QML](#qml)
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
@@ -144,6 +145,10 @@
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 - [thiagokokada/nix-alien](https://github.com/thiagokokada/nix-alien) - Run unpatched binaries on Nix/NixOS
 - [sabnzbd/sabnzbd](https://github.com/sabnzbd/sabnzbd) - SABnzbd - The automated Usenet download tool
+
+## QML 
+
+- [noctalia-dev/noctalia-shell](https://github.com/noctalia-dev/noctalia-shell) - A sleek and minimal desktop shell thoughtfully crafted for Wayland.
 
 ## Rust 
 
