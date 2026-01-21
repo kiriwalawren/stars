@@ -68,6 +68,7 @@
 
 ## Go 
 
+- [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [brizzbuzz/opnix](https://github.com/brizzbuzz/opnix) - Agenix inspired tool enabling users to inject secrets from 1password into their Nix servers at build time
 - [erans/hyprmon](https://github.com/erans/hyprmon) - TUI monitor configuration tool for Hyprland with visual layout, drag-and-drop, and profile management
 - [peterldowns/nix-search-cli](https://github.com/peterldowns/nix-search-cli) - CLI for searching packages on search.nixos.org
@@ -153,6 +154,7 @@
 
 ## Rust 
 
+- [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together
 - [YaLTeR/niri](https://github.com/YaLTeR/niri) - A scrollable-tiling Wayland compositor.
 - [nix-community/lanzaboote](https://github.com/nix-community/lanzaboote) - Secure Boot for NixOS [maintainers=@blitz @raitobezarius @nikstur]
