@@ -348,6 +348,9 @@
 
 ## others 
 
+- [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
+- [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
+- [vic/dendrix](https://github.com/vic/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern. Mirror from https://tangled.org/oeiuwq.com/dendrix. Discussions at https://oeiuwq.zulipchat.com/join/nqp26cd4kngon6mo3
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [9p4/jellyfin-plugin-sso](https://github.com/9p4/jellyfin-plugin-sso) - This plugin allows users to sign in through an SSO provider (such as Google, Microsoft, or your own provider). This enables one-click signin.
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together
