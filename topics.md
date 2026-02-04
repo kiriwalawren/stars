@@ -61,6 +61,8 @@
 - [programming-language](#programming-language)
 - [python](#python)
 - [raspberry-pi](#raspberry-pi)
+- [react](#react)
+- [react-native](#react-native)
 - [rust](#rust)
 - [security](#security)
 - [self-hosted](#self-hosted)
@@ -68,6 +70,7 @@
 - [shell](#shell)
 - [statistics](#statistics)
 - [svelte](#svelte)
+- [tailwindcss](#tailwindcss)
 - [terminal](#terminal)
 - [terraform](#terraform)
 - [testing](#testing)
@@ -179,6 +182,7 @@
 
 ## docker 
 
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [dani-garcia/vaultwarden](https://github.com/dani-garcia/vaultwarden) - Unofficial Bitwarden compatible server written in Rust, formerly known as bitwarden_rs
@@ -340,6 +344,7 @@
 
 ## nodejs 
 
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 
 ## open-source 
@@ -407,6 +412,14 @@
 
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
+## react 
+
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
+
+## react-native 
+
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
+
 ## rust 
 
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
@@ -444,6 +457,10 @@
 ## svelte 
 
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+
+## tailwindcss 
+
+- [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
 
 ## terminal 
 
