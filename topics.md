@@ -14,6 +14,7 @@
 - [bash](#bash)
 - [bugbounty](#bugbounty)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -134,6 +135,10 @@
 ## c 
 
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
+
+## c-plus-plus 
+
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 
 ## chrome-extension 
 
@@ -397,6 +402,7 @@
 
 ## others 
 
+- [TypNull/Tubifarry](https://github.com/TypNull/Tubifarry) - Tubifarry is a Lidarr plugin that enhances your music library by fetching music from YouTube, integrating with Slskd for Soulseek access, automating Spotify playlist imports, converting files, and ret
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [hyprwm/hyprpaper](https://github.com/hyprwm/hyprpaper) - Hyprpaper is a wayland wallpaper utility with IPC controls.
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
