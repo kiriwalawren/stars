@@ -402,6 +402,8 @@
 
 ## others 
 
+- [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
+- [Moonfin-Client/AndroidTV-FireTV](https://github.com/Moonfin-Client/AndroidTV-FireTV) - Android TV and Fire TV Client for Jellyfin
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
 - [TypNull/Tubifarry](https://github.com/TypNull/Tubifarry) - Tubifarry is a Lidarr plugin that enhances your music library by fetching music from YouTube, integrating with Slskd for Soulseek access, automating Spotify playlist imports, converting files, and ret
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
