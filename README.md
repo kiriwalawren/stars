@@ -16,6 +16,7 @@
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Just](#just)
+- [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -98,6 +99,7 @@
 
 ## JavaScript 
 
+- [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
@@ -106,6 +108,10 @@
 ## Just 
 
 - [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell
+
+## Kotlin 
+
+- [Moonfin-Client/AndroidTV-FireTV](https://github.com/Moonfin-Client/AndroidTV-FireTV) - Android TV and Fire TV Client for Jellyfin
 
 ## Less 
 
