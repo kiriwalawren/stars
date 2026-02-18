@@ -87,6 +87,7 @@
 - [ui](#ui)
 - [video](#video)
 - [vim](#vim)
+- [vpn](#vpn)
 - [website](#website)
 - [windows](#windows)
 - [zsh](#zsh)
@@ -130,7 +131,7 @@
 
 ## bugbounty 
 
-- [linuxmobile/bugbounty-flake](https://github.com/linuxmobile/bugbounty-flake) - Bug Bounty Flake
+- [linuxmobile/kai](https://github.com/linuxmobile/kai) - A curated atelier for security research. Deciphering the anatomy of risk through a disciplined and reproducible toolkit.
 
 ## c 
 
@@ -180,7 +181,7 @@
 
 ## cybersecurity 
 
-- [linuxmobile/bugbounty-flake](https://github.com/linuxmobile/bugbounty-flake) - Bug Bounty Flake
+- [linuxmobile/kai](https://github.com/linuxmobile/kai) - A curated atelier for security research. Deciphering the anatomy of risk through a disciplined and reproducible toolkit.
 
 ## dart 
 
@@ -190,6 +191,7 @@
 
 ## deployment 
 
+- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
 ## design 
@@ -261,6 +263,8 @@
 
 ## golang 
 
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
@@ -312,7 +316,7 @@
 
 ## kali-linux 
 
-- [linuxmobile/bugbounty-flake](https://github.com/linuxmobile/bugbounty-flake) - Bug Bounty Flake
+- [linuxmobile/kai](https://github.com/linuxmobile/kai) - A curated atelier for security research. Deciphering the anatomy of risk through a disciplined and reproducible toolkit.
 
 ## language 
 
@@ -362,6 +366,7 @@
 
 ## music 
 
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 
 ## mysql 
@@ -402,6 +407,7 @@
 
 ## others 
 
+- [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
 - [Moonfin-Client/AndroidTV-FireTV](https://github.com/Moonfin-Client/AndroidTV-FireTV) - Android TV and Fire TV Client for Jellyfin
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
@@ -469,6 +475,7 @@
 
 ## raspberry-pi 
 
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [home-assistant/core](https://github.com/home-assistant/core) - :house_with_garden: Open source home automation that puts local control and privacy first.
 
 ## react 
@@ -496,6 +503,7 @@
 
 ## self-hosted 
 
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
 - [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
@@ -559,6 +567,11 @@
 - [nix-community/nixvim](https://github.com/nix-community/nixvim) - Configure Neovim with Nix! [maintainers=@GaetanLepage, @traxys, @mattsturgeon, @khaneliman]
 - [catppuccin/nvim](https://github.com/catppuccin/nvim) - 🍨 Soothing pastel theme for (Neo)vim
 - [mhinz/vim-grepper](https://github.com/mhinz/vim-grepper) - :space_invader: Helps you win at grep.
+
+## vpn 
+
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
 
 ## website 
 
