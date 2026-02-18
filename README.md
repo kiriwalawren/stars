@@ -74,6 +74,9 @@
 
 ## Go 
 
+- [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
+- [netbirdio/netbird](https://github.com/netbirdio/netbird) - Connect your devices into a secure WireGuard®-based overlay network with SSO, MFA and granular access controls.
+- [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧☁️ Your Personal Streaming Service
 - [opencontainers/image-spec](https://github.com/opencontainers/image-spec) - OCI Image Format
 - [qdm12/gluetun](https://github.com/qdm12/gluetun) - VPN client in a thin Docker container for multiple VPN providers, written in Go, and using OpenVPN or Wireguard, DNS over TLS, with a few proxy servers built-in.
 - [brizzbuzz/opnix](https://github.com/brizzbuzz/opnix) - Agenix inspired tool enabling users to inject secrets from 1password into their Nix servers at build time
@@ -140,7 +143,7 @@
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
 - [ButterSus/nixos-dotfiles](https://github.com/ButterSus/nixos-dotfiles) - NixOS and Home Manager dotfiles
-- [linuxmobile/bugbounty-flake](https://github.com/linuxmobile/bugbounty-flake) - Bug Bounty Flake
+- [linuxmobile/kai](https://github.com/linuxmobile/kai) - A curated atelier for security research. Deciphering the anatomy of risk through a disciplined and reproducible toolkit.
 - [nix-community/disko](https://github.com/nix-community/disko) - Declarative disk partitioning and formatting using nix [maintainers=@Lassulus @Enzime @iFreilicht @Mic92 @phaer]
 - [microvm-nix/microvm.nix](https://github.com/microvm-nix/microvm.nix) - NixOS MicroVMs
 - [EmergentMind/nix-config](https://github.com/EmergentMind/nix-config) - A continually evolving multi-user, multi-host NixOS configuration.
@@ -184,6 +187,8 @@
 
 ## Rust 
 
+- [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
+- [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [LLukas22/Jellyswarrm](https://github.com/LLukas22/Jellyswarrm) - Bring all your Jellyfin servers together
 - [niri-wm/niri](https://github.com/niri-wm/niri) - A scrollable-tiling Wayland compositor.
