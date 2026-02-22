@@ -410,6 +410,7 @@
 
 ## others 
 
+- [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [rochecompaan/openziti-nix](https://github.com/rochecompaan/openziti-nix) - 
 - [agersant/polaris](https://github.com/agersant/polaris) - Polaris is a music streaming application, designed to let you enjoy your music collection from any computer or mobile device.
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
