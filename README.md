@@ -74,6 +74,7 @@
 
 ## Go 
 
+- [numtide/treefmt](https://github.com/numtide/treefmt) - the formatter multiplexer [maintainers=@zimbatm,@brianmcgee]
 - [chaitin/SafeLine](https://github.com/chaitin/SafeLine) - SafeLine is a self-hosted WAF(Web Application Firewall) / reverse proxy to protect your web apps from attacks and exploits.
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero trust, application embedded, programmable network @OpenZiti
@@ -192,6 +193,7 @@
 
 ## Rust 
 
+- [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
 - [serokell/deploy-rs](https://github.com/serokell/deploy-rs) - A simple multi-profile Nix-flake deploy tool.
