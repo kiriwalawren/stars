@@ -20,6 +20,7 @@
 - [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
+- [Markdown](#markdown)
 - [Nix](#nix)
 - [Nushell](#nushell)
 - [Others](#others)
@@ -29,6 +30,7 @@
 - [Rust](#rust)
 - [SCSS](#scss)
 - [Shell](#shell)
+- [TeX](#tex)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 
@@ -94,6 +96,7 @@
 
 ## HTML 
 
+- [ossu/computer-science](https://github.com/ossu/computer-science) - 🎓 Path to a free self-taught education in Computer Science!
 - [melogabriel/tinfoil-shops](https://github.com/melogabriel/tinfoil-shops) - Repository with list of links to active and working tinfoil shops for Nintendo Switch.
 - [drduh/YubiKey-Guide](https://github.com/drduh/YubiKey-Guide) - Community guide to using YubiKey for GnuPG and SSH - protect secrets with hardware crypto.
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
@@ -133,6 +136,10 @@
 
 - [HaveAGitGat/Tdarr](https://github.com/HaveAGitGat/Tdarr) - Tdarr - Distributed transcode automation using FFmpeg/HandBrake + Audio/Video library analytics + video health checking (Windows, macOS, Linux & Docker)
 
+## Markdown 
+
+- [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) - Master programming by recreating your favorite technologies from scratch.
+
 ## Nix 
 
 - [rochecompaan/openziti-nix](https://github.com/rochecompaan/openziti-nix) - 
@@ -166,10 +173,11 @@
 
 ## Others 
 
+- [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
+- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 - [rothgar/awesome-tuis](https://github.com/rothgar/awesome-tuis) - List of projects that provide terminal user interfaces
 - [nix-community/awesome-nix](https://github.com/nix-community/awesome-nix) - 😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]
 - [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
-- [awesome-selfhosted/awesome-selfhosted](https://github.com/awesome-selfhosted/awesome-selfhosted) - A list of Free Software network services and web applications which can be hosted on your own servers
 
 ## PHP 
 
@@ -194,6 +202,7 @@
 
 ## Rust 
 
+- [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
 - [pythops/bluetui](https://github.com/pythops/bluetui) - 🛜 TUI for managing bluetooth on Linux
@@ -221,6 +230,10 @@
 - [rockerBOO/awesome-neovim](https://github.com/rockerBOO/awesome-neovim) - Collections of awesome neovim plugins.
 - [myoung34/docker-github-actions-runner](https://github.com/myoung34/docker-github-actions-runner) - This will run the new self-hosted github actions runners with docker-in-docker
 - [MichaelAquilina/zsh-history-filter](https://github.com/MichaelAquilina/zsh-history-filter) - 🔍 Zsh plugin to filter out some commands from being added to you history
+
+## TeX 
+
+- [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
 
 ## TypeScript 
 
