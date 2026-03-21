@@ -436,6 +436,7 @@
 
 ## others 
 
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [pulumi/pulumi-google-native](https://github.com/pulumi/pulumi-google-native) - 
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
 - [996icu/996.ICU](https://github.com/996icu/996.ICU) - Repo for counting stars and contributing. Press F to pay respect to glorious developers.
