@@ -108,6 +108,7 @@
 
 ## JavaScript 
 
+- [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
 - [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
