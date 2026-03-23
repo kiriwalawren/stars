@@ -15,7 +15,6 @@
 - [bugbounty](#bugbounty)
 - [c](#c)
 - [c-plus-plus](#c-plus-plus)
-- [chrome](#chrome)
 - [chrome-extension](#chrome-extension)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -103,7 +102,6 @@
 
 ## api 
 
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API.
 - [neovim/neovim](https://github.com/neovim/neovim) - Vim-fork focused on extensibility and usability
 
@@ -149,10 +147,6 @@
 ## c-plus-plus 
 
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
-
-## chrome 
-
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 
 ## chrome-extension 
 
@@ -229,7 +223,6 @@
 
 ## docker 
 
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [favonia/cloudflare-ddns](https://github.com/favonia/cloudflare-ddns) - 🌟 A small, feature-rich, and robust Cloudflare DDNS updater
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 - [connorgallopo/Tracearr](https://github.com/connorgallopo/Tracearr) - Real-time monitoring for Plex, Jellyfin, and Emby servers. Track streams, analyze playback, and detect account sharing from a single dashboard.
@@ -297,7 +290,6 @@
 
 ## hacktoberfest 
 
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
 - [Locatarr/locatarr.github.io](https://github.com/Locatarr/locatarr.github.io) - Locating *Arr services and aggregating them into a single list. Thus, Locatarr.
 - [catppuccin/spicetify](https://github.com/catppuccin/spicetify) - 🎧 Soothing pastel theme for Spotify
@@ -436,6 +428,8 @@
 
 ## others 
 
+- [morpheus65535/bazarr](https://github.com/morpheus65535/bazarr) - Bazarr is a companion application to Sonarr and Radarr. It manages and downloads subtitles based on your requirements. You define your preferences by TV show or movie and Bazarr takes care of everythi
+- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [pulumi/pulumi-google-native](https://github.com/pulumi/pulumi-google-native) - 
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
@@ -484,7 +478,6 @@
 - [kiriwalawren/dotnix](https://github.com/kiriwalawren/dotnix) - NixOS, HomeManager, and Nixvim Configurations
 - [willswire/unifi-ddns](https://github.com/willswire/unifi-ddns) - Cloudflare DDNS (Dynamic DNS) support for UniFi OS
 - [Vencord/Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support
-- [lbonn/rofi](https://github.com/lbonn/rofi) - [Historical wayland fork - see davatorium/rofi!] Rofi: A window switcher, run dialog and dmenu replacement
 - [opentofu/manifesto](https://github.com/opentofu/manifesto) - The OpenTF Manifesto expresses concern over HashiCorp's switch of the Terraform license from open-source to the Business Source License (BSL) and calls for the tool's return to a truly open-source lic
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
 - [tekartik/idb_shim.dart](https://github.com/tekartik/idb_shim.dart) - Indexed db like API on top of native, websql or memory implementation
@@ -563,7 +556,6 @@
 
 ## server 
 
-- [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [coollabsio/coolify](https://github.com/coollabsio/coolify) - An open-source, self-hostable PaaS alternative to Vercel, Heroku & Netlify that lets you easily deploy static sites, databases, full-stack applications and 280+ one-click services on your own servers.
 
 ## serverless 
