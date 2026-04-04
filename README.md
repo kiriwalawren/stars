@@ -241,6 +241,7 @@
 
 ## TypeScript 
 
+- [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
 - [renovatebot/renovate](https://github.com/renovatebot/renovate) - Home of the Renovate CLI: Cross-platform Dependency Automation by Mend.io
 - [venkyr77/jellarr](https://github.com/venkyr77/jellarr) - Declarative configuration engine for Jellyfin — apply and sync server settings from YAML via the Jellyfin API.
 - [tailscale/github-action](https://github.com/tailscale/github-action) - A GitHub Action to connect your workflow to your Tailscale network.
