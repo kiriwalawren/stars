@@ -31,6 +31,7 @@
 - [SCSS](#scss)
 - [Shell](#shell)
 - [TeX](#tex)
+- [Tree-sitter Query](#tree-sitter-query)
 - [TypeScript](#typescript)
 - [Vim Script](#vim-script)
 
@@ -235,6 +236,10 @@
 ## TeX 
 
 - [riscv/riscv-isa-manual](https://github.com/riscv/riscv-isa-manual) - RISC-V Instruction Set Manual
+
+## Tree-sitter Query 
+
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) - Nvim Treesitter configurations and abstraction layer
 
 ## TypeScript 
 
