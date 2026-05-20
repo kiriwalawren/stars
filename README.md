@@ -37,7 +37,6 @@
 
 ## C 
 
-- [rofl0r/microsocks](https://github.com/rofl0r/microsocks) - tiny, portable SOCKS5 server with very moderate resource usage
 - [openziti/ziti-tunnel-sdk-c](https://github.com/openziti/ziti-tunnel-sdk-c) - 
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 
@@ -67,8 +66,6 @@
 ## Dart 
 
 - [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
-- [krille-chan/fluffychat](https://github.com/krille-chan/fluffychat) - The cutest instant messenger in the [matrix]
-- [tekartik/idb_shim.dart](https://github.com/tekartik/idb_shim.dart) - Indexed db like API on top of native, websql or memory implementation
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 - [erluxman/awesomefluttertips](https://github.com/erluxman/awesomefluttertips) - ❤️ Awesome Flutter Tips and Tricks  ❤️
@@ -91,8 +88,6 @@
 - [juanfont/headscale](https://github.com/juanfont/headscale) - An open source, self-hosted implementation of the Tailscale control server
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [opentofu/opentofu](https://github.com/opentofu/opentofu) - OpenTofu lets you declaratively manage your cloud infrastructure.
-- [boyter/scc](https://github.com/boyter/scc) - Sloc, Cloc and Code: scc is a very fast accurate code counter with complexity calculations and COCOMO estimates written in pure Go
-- [hashicorp/terraform-provider-azurerm](https://github.com/hashicorp/terraform-provider-azurerm) - Terraform provider for Azure Resource Manager
 - [nektos/act](https://github.com/nektos/act) - Run your GitHub Actions locally 🚀
 
 ## HTML 
@@ -111,9 +106,7 @@
 
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
-- [Moonfin-Client/Plugin](https://github.com/Moonfin-Client/Plugin) - 
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
-- [sveltejs/svelte](https://github.com/sveltejs/svelte) - web development for the rest of us
 - [matrix-org/matrix.org](https://github.com/matrix-org/matrix.org) - matrix.org public website
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 
@@ -146,7 +139,6 @@
 ## Nix 
 
 - [numtide/system-manager](https://github.com/numtide/system-manager) - Manage system config using nix on any distro
-- [rochecompaan/openziti-nix](https://github.com/rochecompaan/openziti-nix) - 
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
 - [nix-community/NixOS-WSL](https://github.com/nix-community/NixOS-WSL) - NixOS on WSL [maintainer=@nzbr]
 - [Mic92/sops-nix](https://github.com/Mic92/sops-nix) - Atomic secret provisioning for NixOS based on sops
@@ -154,7 +146,6 @@
 - [numtide/treefmt-nix](https://github.com/numtide/treefmt-nix) - treefmt nix configuration
 - [mightyiam/dendritic](https://github.com/mightyiam/dendritic) - A Nixpkgs module system usage pattern
 - [Doc-Steve/dendritic-design-with-flake-parts](https://github.com/Doc-Steve/dendritic-design-with-flake-parts) - A guide on how to structure your Nix code with Flake Parts using the Dendritic Pattern
-- [denful/dendrix](https://github.com/denful/dendrix) - Dendritic Nix - Community-driven Nix distribution based on the Dendritic pattern.
 - [nix-community/authentik-nix](https://github.com/nix-community/authentik-nix) - Nix flake with package, NixOS module and VM test for authentik. Alternative deployment mode to the official docker-compose approach. No official support by authentik [maintainers=@ma27]
 - [kiriwalawren/nixflix](https://github.com/kiriwalawren/nixflix) - NixOS Media Server Configuration
 - [ButterSus/nixos-dotfiles](https://github.com/ButterSus/nixos-dotfiles) - NixOS and Home Manager dotfiles
