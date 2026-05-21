@@ -426,6 +426,7 @@
 
 ## others 
 
+- [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
 - [Timshel/oidc_web_vault](https://github.com/Timshel/oidc_web_vault) - OIDC Web vault builds
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
