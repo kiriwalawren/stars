@@ -16,7 +16,6 @@
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Just](#just)
-- [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -113,10 +112,6 @@
 ## Just 
 
 - [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell
-
-## Kotlin 
-
-- [Moonfin-Client/AndroidTV-FireTV](https://github.com/Moonfin-Client/AndroidTV-FireTV) - Android TV and Fire TV Client for Jellyfin
 
 ## Less 
 
