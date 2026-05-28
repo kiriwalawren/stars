@@ -426,6 +426,7 @@
 
 ## others 
 
+- [0belous/Jellyfin-Universal-Catalogue](https://github.com/0belous/Jellyfin-Universal-Catalogue) - Jellyfin universal plugin repository
 - [pyproject-nix/uv2nix](https://github.com/pyproject-nix/uv2nix) - Uv2nix - Ingest uv workspaces using Nix [maintainer=@adisbladis]
 - [Timshel/oidc_web_vault](https://github.com/Timshel/oidc_web_vault) - OIDC Web vault builds
 - [ThePhaseless/Byparr](https://github.com/ThePhaseless/Byparr) - Get your valid antibot cookies yourself!
