@@ -103,7 +103,7 @@
 
 ## JavaScript 
 
-- [0belous/Jellyfin-Universal-Catalogue](https://github.com/0belous/Jellyfin-Universal-Catalogue) - Jellyfin universal plugin repository
+- [0belous/Jellyfin-Universal-Plugin-Repo](https://github.com/0belous/Jellyfin-Universal-Plugin-Repo) - The Jellyfin universal plugin repository
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
 - [fmhy/edit](https://github.com/fmhy/edit) - Make changes to FMHY
