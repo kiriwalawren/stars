@@ -115,6 +115,7 @@
 
 ## Just 
 
+- [catppuccin/symfonium](https://github.com/catppuccin/symfonium) - 🎶 Soothing pastel theme for Symfonium
 - [eldritch-theme/eldritch](https://github.com/eldritch-theme/eldritch) - A theme for the Ancient Ones!
 - [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell
 
