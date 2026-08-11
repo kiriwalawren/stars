@@ -261,7 +261,7 @@
 
 - [caelestia-dots/shell](https://github.com/caelestia-dots/shell) - A fluid, morphing shell for your Linux desktop
 - [nix-community/home-manager](https://github.com/nix-community/home-manager) - Manage a user environment using Nix  [maintainer=@khaneliman, @rycee]
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
+- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [redyf/nixdots](https://github.com/redyf/nixdots) - Modular NixOS configuration
 
 ## dotnet 
@@ -388,7 +388,7 @@
 - [jtroo/kanata](https://github.com/jtroo/kanata) - Improve keyboard comfort and usability with advanced customization
 - [noctalia-dev/noctalia](https://github.com/noctalia-dev/noctalia) - A sleek, customizable desktop shell crafted for Wayland.
 - [XAMPPRocky/tokei](https://github.com/XAMPPRocky/tokei) - Count your code, quickly.
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
+- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 - [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs) - Nix Packages collection & NixOS
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
 
@@ -471,6 +471,7 @@
 
 ## others 
 
+- [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
 - [catppuccin/symfonium](https://github.com/catppuccin/symfonium) - 🎶 Soothing pastel theme for Symfonium
 - [eldritch-theme/eldritch](https://github.com/eldritch-theme/eldritch) - A theme for the Ancient Ones!
 - [0belous/Jellyfin-Universal-Plugin-Repo](https://github.com/0belous/Jellyfin-Universal-Plugin-Repo) - The Jellyfin universal plugin repository
@@ -684,7 +685,7 @@
 ## zsh 
 
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
-- [sioodmy/dotfiles](https://github.com/sioodmy/dotfiles) - My NixOS configuration flake that moggs yours in term of eval times
+- [sioodmy/nixus](https://github.com/sioodmy/nixus) - My NixOS configuration flake that moggs yours in term of eval times
 
 
 ## License
