@@ -50,6 +50,7 @@
 - [iot](#iot)
 - [javascript](#javascript)
 - [kali-linux](#kali-linux)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
@@ -103,6 +104,7 @@
 
 ## android 
 
+- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - A modern Navidrome client for Android and iOS
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
@@ -347,6 +349,7 @@
 
 ## ios 
 
+- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - A modern Navidrome client for Android and iOS
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
 ## iot 
@@ -362,6 +365,10 @@
 ## kali-linux 
 
 - [linuxmobile/kai](https://github.com/linuxmobile/kai) - A curated atelier for security research. Deciphering the anatomy of risk through a disciplined and reproducible toolkit.
+
+## kotlin 
+
+- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - A modern Navidrome client for Android and iOS
 
 ## kubernetes 
 
@@ -471,6 +478,7 @@
 
 ## others 
 
+- [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - 🌙 The home for your music
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
 - [catppuccin/symfonium](https://github.com/catppuccin/symfonium) - 🎶 Soothing pastel theme for Symfonium
 - [eldritch-theme/eldritch](https://github.com/eldritch-theme/eldritch) - A theme for the Ancient Ones!
