@@ -17,6 +17,7 @@
 - [Haskell](#haskell)
 - [JavaScript](#javascript)
 - [Just](#just)
+- [Kotlin](#kotlin)
 - [Less](#less)
 - [Lua](#lua)
 - [Makefile](#makefile)
@@ -124,6 +125,10 @@
 - [eldritch-theme/eldritch](https://github.com/eldritch-theme/eldritch) - A theme for the Ancient Ones!
 - [catppuccin/fish](https://github.com/catppuccin/fish) - 🐟 Soothing pastel theme for the Fish Shell
 
+## Kotlin 
+
+- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - A modern Navidrome client for Android and iOS
+
 ## Less 
 
 - [catppuccin/userstyles](https://github.com/catppuccin/userstyles) - 🖌 Soothing pastel userstyles
@@ -188,6 +193,7 @@
 
 ## Python 
 
+- [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - 🌙 The home for your music
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
 - [smacke/ffsubsync](https://github.com/smacke/ffsubsync) - Automagically synchronize subtitles with video.
