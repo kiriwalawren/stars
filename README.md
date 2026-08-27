@@ -83,6 +83,7 @@
 
 ## Go 
 
+- [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
 - [restic/restic](https://github.com/restic/restic) - Fast, secure, efficient backup program
 - [Mic92/niks3](https://github.com/Mic92/niks3) - S3-backed Nix binary cache with garbage collection
@@ -214,6 +215,7 @@
 
 ## Rust 
 
+- [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions
 - [oppiliappan/statix](https://github.com/oppiliappan/statix) - lints and suggestions for the nix programming language
@@ -235,6 +237,7 @@
 
 ## Shell 
 
+- [nix-community/nixos-anywhere](https://github.com/nix-community/nixos-anywhere) - Install NixOS everywhere via SSH [maintainers=@Mic92 @Lassulus @phaer @Enzime @a-kenji]
 - [basecamp/omarchy](https://github.com/basecamp/omarchy) - Beautiful, Modern & Opinionated Linux
 - [awesome-jellyfin/awesome-jellyfin](https://github.com/awesome-jellyfin/awesome-jellyfin) - A Collection of Awesome Jellyfin Plugins, Themes, Guides and More!
 - [cachix/install-nix-action](https://github.com/cachix/install-nix-action) - Installs Nix on GitHub Actions for the supported platforms: Linux and macOS.
