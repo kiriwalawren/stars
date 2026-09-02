@@ -195,6 +195,7 @@
 
 ## Python 
 
+- [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!
 - [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - 🌙 The home for your music
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
 - [jessielw/Reclaimerr](https://github.com/jessielw/Reclaimerr) - https://jessielw.github.io/Reclaimerr/ - Automatically reclaim space in your media library using customizable rules. Integrates with Jellyfin, Plex, and Emby (any or all of them) to analyze and manage
