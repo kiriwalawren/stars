@@ -435,6 +435,7 @@
 
 ## music 
 
+- [DroppedNeedle/DroppedNeedle](https://github.com/DroppedNeedle/DroppedNeedle) - 
 - [navidrome/navidrome](https://github.com/navidrome/navidrome) - 🎧 Your Personal Streaming Service
 - [Lidarr/Lidarr](https://github.com/Lidarr/Lidarr) - Looks and smells like Sonarr but made for music.
 
@@ -487,6 +488,7 @@
 
 ## others 
 
+- [Nezreka/SoulSync](https://github.com/Nezreka/SoulSync) - Intelligent Music & Video Automation Platform
 - [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
 - [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
