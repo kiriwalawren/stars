@@ -196,6 +196,8 @@
 
 ## Python 
 
+- [DroppedNeedle/DroppedNeedle](https://github.com/DroppedNeedle/DroppedNeedle) - 
+- [Nezreka/SoulSync](https://github.com/Nezreka/SoulSync) - Intelligent Music & Video Automation Platform
 - [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!
 - [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - 🌙 The home for your music
 - [FlareSolverr/FlareSolverr](https://github.com/FlareSolverr/FlareSolverr) - Proxy server to bypass Cloudflare protection
