@@ -105,7 +105,7 @@
 
 ## android 
 
-- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - Subsonic music streaming app for Android and iOS
+- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - Subsonic music streaming app for Android
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
@@ -371,7 +371,7 @@
 
 ## kotlin 
 
-- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - Subsonic music streaming app for Android and iOS
+- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - Subsonic music streaming app for Android
 
 ## kubernetes 
 
