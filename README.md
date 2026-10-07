@@ -115,6 +115,7 @@
 
 ## JavaScript 
 
+- [varunaditya-plus/SeerrFin](https://github.com/varunaditya-plus/SeerrFin) - The best way to discover and request Movies and TV Shows through Seerr directly in Jellyfin.
 - [0belous/Jellyfin-Universal-Plugin-Repo](https://github.com/0belous/Jellyfin-Universal-Plugin-Repo) - The universal Jellyfin plugin aggregator
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [CyferShepard/Jellystat](https://github.com/CyferShepard/Jellystat) - Jellystat is a free and open source Statistics App for Jellyfin
