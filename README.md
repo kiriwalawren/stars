@@ -69,7 +69,7 @@
 
 ## Dart 
 
-- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
+- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform media server client built with Flutter
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [dart-lang/sdk](https://github.com/dart-lang/sdk) - The Dart SDK, including the VM, JS and Wasm compilers, analysis, core libraries, and more.
 - [erluxman/awesomefluttertips](https://github.com/erluxman/awesomefluttertips) - ❤️ Awesome Flutter Tips and Tricks  ❤️
@@ -116,7 +116,6 @@
 
 ## JavaScript 
 
-- [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
 - [n00bcodr/Jellyfin-Enhanced](https://github.com/n00bcodr/Jellyfin-Enhanced) - A comprehensive enhancement layer for the Jellyfin web UI with keyboard shortcuts, subtitle styling, TMDB and User reviews, Seerr integration with auto-request, a media calendar and download monitor v
 - [varunaditya-plus/SeerrFin](https://github.com/varunaditya-plus/SeerrFin) - The best way to discover and request Movies and TV Shows through Seerr directly in Jellyfin.
 - [0belous/Jellyfin-Universal-Plugin-Repo](https://github.com/0belous/Jellyfin-Universal-Plugin-Repo) - The universal Jellyfin plugin aggregator
@@ -265,6 +264,7 @@
 
 ## TypeScript 
 
+- [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [Timshel/oidc_web_vault](https://github.com/Timshel/oidc_web_vault) - OIDC Web vault builds
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
