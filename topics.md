@@ -275,7 +275,7 @@
 
 ## flutter 
 
-- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform Plex & Jellyfin client built with Flutter
+- [edde746/plezy](https://github.com/edde746/plezy) - Modern cross-platform media server client built with Flutter
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 - [bluefireteam/vscode-dart-import](https://github.com/bluefireteam/vscode-dart-import) - A simple plugin for VSCode to change all Dart/Flutter imports to relative format.
