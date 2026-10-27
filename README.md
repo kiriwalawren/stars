@@ -44,6 +44,7 @@
 
 ## C# # 
 
+- [Jellyfin-PG/JellyEmu](https://github.com/Jellyfin-PG/JellyEmu) - Adds support for games to jellyfin.
 - [DamianEdwards/DevBench](https://github.com/DamianEdwards/DevBench) - Benchmark your developer PC build performance
 - [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [intro-skipper/intro-skipper](https://github.com/intro-skipper/intro-skipper) - Automatically detect and skip intro/credit sequences in Jellyfin
