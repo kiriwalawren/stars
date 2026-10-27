@@ -40,6 +40,7 @@
 - [flutter](#flutter)
 - [flutter-apps](#flutter-apps)
 - [framework](#framework)
+- [gaming](#gaming)
 - [git](#git)
 - [github](#github)
 - [go](#go)
@@ -292,6 +293,10 @@
 ## framework 
 
 - [squidfunk/mkdocs-material](https://github.com/squidfunk/mkdocs-material) - Documentation that simply works
+
+## gaming 
+
+- [Jellyfin-PG/JellyEmu](https://github.com/Jellyfin-PG/JellyEmu) - Adds support for games to jellyfin.
 
 ## git 
 
