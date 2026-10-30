@@ -52,7 +52,6 @@
 - [iot](#iot)
 - [javascript](#javascript)
 - [kali-linux](#kali-linux)
-- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [laravel](#laravel)
@@ -107,7 +106,6 @@
 
 ## android 
 
-- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - Subsonic music streaming app for Android
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [Solido/awesome-flutter](https://github.com/Solido/awesome-flutter) - An awesome list that curates the best Flutter libraries, tools, tutorials, articles and more.
 
@@ -378,10 +376,6 @@
 
 - [linuxmobile/kai](https://github.com/linuxmobile/kai) - A curated atelier for security research. Deciphering the anatomy of risk through a disciplined and reproducible toolkit.
 
-## kotlin 
-
-- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - Subsonic music streaming app for Android
-
 ## kubernetes 
 
 - [pulumi/pulumi](https://github.com/pulumi/pulumi) - Pulumi - Infrastructure as Code in any programming language 🚀
@@ -505,6 +499,7 @@
 - [nix-community/nix-index-database](https://github.com/nix-community/nix-index-database) - Weekly updated nix-index database [maintainer=@Mic92]
 - [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [nix-community/nixos-facter](https://github.com/nix-community/nixos-facter) - Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]
+- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - 
 - [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - 🌙 The home for your music
 - [phoenixframework/phoenix_live_view](https://github.com/phoenixframework/phoenix_live_view) - Rich, real-time user experiences with server-rendered HTML
 - [catppuccin/symfonium](https://github.com/catppuccin/symfonium) - 🎶 Soothing pastel theme for Symfonium
