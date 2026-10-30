@@ -140,7 +140,7 @@
 
 ## Kotlin 
 
-- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - Subsonic music streaming app for Android
+- [ssalggnikool/Navic](https://github.com/ssalggnikool/Navic) - 
 
 ## Less 
 
