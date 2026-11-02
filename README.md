@@ -270,7 +270,7 @@
 
 ## TypeScript 
 
-- [lklynet/aurral](https://github.com/lklynet/aurral) - The best in open-source music discovery.
+- [lklynet/aurral](https://github.com/lklynet/aurral) - Find new music, get it, and play it, all on your own server.
 - [Maintainerr/Maintainerr](https://github.com/Maintainerr/Maintainerr) - Looks and smells like Seerr, does the opposite. A library maintenance tool for Plex, Jellyfin and Emby.
 - [Timshel/oidc_web_vault](https://github.com/Timshel/oidc_web_vault) - OIDC Web vault builds
 - [CyberTimon/RapidRAW](https://github.com/CyberTimon/RapidRAW) - A beautiful, non-destructive, and GPU-accelerated RAW image editor built with performance in mind.
