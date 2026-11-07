@@ -100,6 +100,7 @@
 - [video](#video)
 - [vim](#vim)
 - [vpn](#vpn)
+- [vscode](#vscode)
 - [website](#website)
 - [windows](#windows)
 - [zsh](#zsh)
@@ -719,6 +720,10 @@
 
 - [tailscale/tailscale](https://github.com/tailscale/tailscale) - The easiest, most secure way to use WireGuard and 2FA.
 - [openziti/ziti](https://github.com/openziti/ziti) - The parent project for OpenZiti. Here you will find the executables for a fully zero-trust, programmable network @OpenZiti
+
+## vscode 
+
+- [bluefireteam/vscode-dart-import](https://github.com/bluefireteam/vscode-dart-import) - A simple plugin for VSCode to change all Dart/Flutter imports to relative format.
 
 ## website 
 
