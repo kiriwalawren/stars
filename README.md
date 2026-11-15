@@ -208,7 +208,6 @@
 
 ## Python 
 
-- [DroppedNeedle/DroppedNeedle](https://github.com/DroppedNeedle/DroppedNeedle) - 
 - [Nezreka/SoulSync](https://github.com/Nezreka/SoulSync) - Intelligent Music & Video Automation Platform
 - [mrusse/soularr](https://github.com/mrusse/soularr) - A Python script that connects Lidarr with Soulseek!
 - [Jeffser/Nocturne](https://github.com/Jeffser/Nocturne) - 🌙 The home for your music
@@ -235,6 +234,7 @@
 
 - [MalpenZibo/ashell](https://github.com/MalpenZibo/ashell) - A ready to go status bar for Wayland compositors
 - [storytold/filmcraft](https://github.com/storytold/filmcraft) - FilmCraft: An open-source, nonlinear video editor written from scratch in pure Rust
+- [DroppedNeedle/DroppedNeedle](https://github.com/DroppedNeedle/DroppedNeedle) - 
 - [cachix/secretspec](https://github.com/cachix/secretspec) - A declarative interface for every secret provider.
 - [sxyazi/yazi](https://github.com/sxyazi/yazi) - 💥 Blazing fast terminal file manager written in Rust, based on async I/O.
 - [zizmorcore/zizmor](https://github.com/zizmorcore/zizmor) - Static analysis for GitHub Actions (and more)
