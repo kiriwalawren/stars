@@ -90,6 +90,7 @@
 - [server](#server)
 - [serverless](#serverless)
 - [shell](#shell)
+- [static-site-generator](#static-site-generator)
 - [statistics](#statistics)
 - [svelte](#svelte)
 - [tailwindcss](#tailwindcss)
@@ -664,6 +665,10 @@
 ## shell 
 
 - [jessfraz/dockerfiles](https://github.com/jessfraz/dockerfiles) - Various Dockerfiles I use on the desktop and on servers.
+
+## static-site-generator 
+
+- [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 
 ## statistics 
 
